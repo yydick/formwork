@@ -1,0 +1,22 @@
+{
+    "name": "spool/formwork",
+    "description": "The PHP cli mode framework",
+    "authors": [
+        {
+            "name": "Haobo Chen",
+            "email": "yydick@sohu.com"
+        }
+    ],
+    "license": "php",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spool\\Formwork\\": "src/"
+        }
+    }
+}
