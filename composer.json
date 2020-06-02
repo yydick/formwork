@@ -7,7 +7,7 @@
             "email": "yydick@sohu.com"
         }
     ],
-    "license": "php",
+    "license": "apache",
     "require": {
         "php": ">=7.1.0"
     },
