@@ -1,5 +1,5 @@
 {
-    "name": "spool/formwork",
+    "name": "phpspool/formwork",
     "description": "The PHP cli mode framework",
     "authors": [
         {
